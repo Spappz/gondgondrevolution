@@ -85,7 +85,7 @@ class Endscreen extends Phaser.Scene {
 		this.open_link(url);
 	}
 	open_soundcloud() {
-		var url = "https://soundcloud.com/superlumic";
+		var url = "https://soundcloud.com/seventhfonon/wu-wei-dj-majik-mix";
 		this.open_link(url);
 	}
 
